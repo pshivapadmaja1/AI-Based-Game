@@ -5,6 +5,13 @@ Jumping game with ML
 1. Penmetsa Shiva Padmaja (19pa1a1295)
 2. Potturi Sarvani (19pa1a12a5)
 
+## About the game
+1. This is an artificial intelligence based javascript game.
+2. There are two objects in the game.
+3. The boy will be running from the left side.
+4. Balls will come from the right side.
+3. When the ball will come then the boy has to jump over it.
+
 ## Trained Model Link
 https://teachablemachine.withgoogle.com/models/lDN9PIdBE/
 
@@ -26,12 +33,10 @@ https://github.com/googlecreativelab/teachablemachine-community/blob/master/snip
 ![Screenshot (33)](https://user-images.githubusercontent.com/72642273/106273793-3d994b80-6259-11eb-8e27-9b7cb53aad67.png)
 
 ## Instructions of the game
-1. After clicking the 'Start' button, an alert will come to get permission for the camera.
-2. After giving the permission, you can start your game
-<br>
-3. Show your fist to the camera.
-<br>
-4. Show your palm for jumping of the boy
+1. When you get the interface like above, click the 'Start' button to allow camera.
+2. After giving the permission, you can start your game.
+3. Show your fist to the camera for running of the boy.
+4. If you want the boy to jump, show your palm to the camera.
 
 ## Heroku link
 https://jumping-game-with-ml.herokuapp.com/
