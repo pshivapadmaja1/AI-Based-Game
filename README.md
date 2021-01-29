@@ -11,5 +11,5 @@ https://jumping-game-with-ml.herokuapp.com/
 ## Youtube Link
 
 
-## Resource Links
+## Reference Links
 
