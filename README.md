@@ -22,7 +22,7 @@ https://github.com/googlecreativelab/teachablemachine-community/blob/master/snip
 ![Screenshot (23)](https://user-images.githubusercontent.com/72642273/106272551-383b0180-6257-11eb-8a7c-e05c39e55539.png)
 ![Screenshot (26)](https://user-images.githubusercontent.com/72642273/106272572-3f620f80-6257-11eb-87c3-ab07ef257a96.png)
 <br>
-![Screenshot (27)](https://user-images.githubusercontent.com/72642273/106272577-412bd300-6257-11eb-9e45-6625b18dd5e8.png)
+
 
 
 ## Heroku link
