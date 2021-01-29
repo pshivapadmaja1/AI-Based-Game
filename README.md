@@ -27,8 +27,7 @@ https://github.com/googlecreativelab/teachablemachine-community/blob/master/snip
 
 ## Instructions of the game
 1. After clicking the 'Start' button, an alert will come to get permission for the camera.
-<br>
-2. After giving the permission, we can start our game
+2. After giving the permission, you can start your game
 <br>
 3. Show your fist to the camera.
 <br>
