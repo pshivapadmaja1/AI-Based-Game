@@ -9,7 +9,7 @@ Jumping game with ML
 https://teachablemachine.withgoogle.com/models/lDN9PIdBE/
 
 ## Github links for trained model code
-https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries
+https://github.com/googlecreativelab/teachablemachine-community/tree/master/librariesWh
 https://github.com/googlecreativelab/teachablemachine-community/blob/master/snippets/markdown/image/tensorflowjs/javascript.md
 
 ## Images of training model
@@ -25,7 +25,14 @@ https://github.com/googlecreativelab/teachablemachine-community/blob/master/snip
 ![Screenshot (34)](https://user-images.githubusercontent.com/72642273/106273780-396d2e00-6259-11eb-96eb-4702d362b353.png)
 ![Screenshot (33)](https://user-images.githubusercontent.com/72642273/106273793-3d994b80-6259-11eb-8e27-9b7cb53aad67.png)
 
-
+## Instructions of the game
+1. After clicking the 'Start' button, an alert will come to get permission for the camera.
+<br>
+2. After giving the permission, we can start our game
+<br>
+3. Show your fist to the camera.
+<br>
+4. Show your palm for jumping of the boy
 
 ## Heroku link
 https://jumping-game-with-ml.herokuapp.com/
