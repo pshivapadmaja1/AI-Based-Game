@@ -12,5 +12,5 @@ https://jumping-game-with-ml.herokuapp.com/
 
 
 ## Reference Links
-Source Video ---> https://www.youtube.com/watch?v=IdtuYv_5Z3M&t=249s
+Source Video ---> https://www.youtube.com/watch?v=IdtuYv_5Z3M&t=249s  <br>
 Source Code ----> https://glitch.com/edit/#!/verbena-thorn-asparagus?path=style.css%3A1%3A0
